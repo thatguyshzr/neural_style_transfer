@@ -1,4 +1,4 @@
-## Neural Style Transfer
+# Neural Style Transfer
 
 Basically, the model learns the style and content of the painting and manipulates the given image accordingly.
 
@@ -17,7 +17,7 @@ The code is based on [this colab notebook].
 ### Setting up
 Open command prompt where you want to clone the code.
 
-> git clone [link] <br> cd [folder_name] <br> pip install  -r requirements.txt
+> git clone https://github.com/thatguyshzr/neural_style_transfer.git <br> cd neural_style_transfer <br> pip install  -r requirements.txt
 
 ## Command-line Execution
 Run the example (use 1000 iterations for best result): `python .\run_nst.py --input '.\input_images\turtle.jpg' --style '.\input_images\wave.jpg' --iter 100`
