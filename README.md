@@ -5,7 +5,7 @@ Basically, the model learns the style and content of the painting and manipulate
 The code is based on [this colab notebook].
 
 ![alt text](https://github.com/thatguyshzr/neural_style_transfer/blob/main/output_images/content_style_images.png)
-![alt text](link to output image for vulture)
+![alt text](https://github.com/thatguyshzr/neural_style_transfer/blob/main/output_images/vulture.png)
 
 ## Running the code
 ### Dependencies
