@@ -35,4 +35,6 @@ Optional arguments:
 
 ---
 
+[![HitCount](http://hits.dwyl.com/thatguyshzr/neural_style_transfer.svg)](http://hits.dwyl.com/thatguyshzr/neural_style_transfer)
+
 [this colab notebook]:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiDvojLlpvuAhXXcn0KHQzpBvYQFjAAegQIBRAC&url=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Ftensorflow%2Fmodels%2Fblob%2Fmaster%2Fresearch%2Fnst_blogpost%2F4_Neural_Style_Transfer_with_Eager_Execution.ipynb&usg=AOvVaw3xlFLR_ihslRjdBhdFT60x
